@@ -38,20 +38,20 @@ Due to unforeseen(but expected) circumstances -such as a very hungry little boy 
 
 
 ### Technologies used:
-- [Miniaudio - An audio playback and capture library for C and C++](https://miniaud.io/)
-- [FLAC - Free losless audio codec](https://xiph.org/flac/index.html)
-
+- <a href="https://miniaud.io/" target="_blank" rel="noopener noreferrer">Miniaudio - An audio playback and capture library for C and C++</a>
+- <a href="https://xiph.org/flac/index.html" target="_blank" rel="noopener noreferrer">FLAC - Free losless audio codec</a>
 
 All of my customers will receive an update with more features soon.
 This version received its last update on `28.01.2025`
+
 Good luck.
 
 
 Forums/Topics:
-- [Metin2Dev](https://metin2.dev/topic/33630-voice-chat-system/)
-- [Metin2Forum](https://metin2.forum/post5105.html#p5105)
-- [Just4Metin](https://just4metin.ro/viewtopic.php?p=833110#p833110)
-- [TurkMMO](https://forum.turkmmo.com/konu/3917308-voice-chat-system/)
+- <a href="https://metin2.dev/topic/33630-voice-chat-system/" target="_blank" rel="noopener noreferrer">Metin2Dev</a>
+- <a href="https://metin2.forum/post5105.html#p5105" target="_blank" rel="noopener noreferrer">Metin2Forum</a>
+- <a href="https://just4metin.ro/viewtopic.php?p=833110#p833110" target="_blank" rel="noopener noreferrer">Just4Metin</a>
+- <a href="https://forum.turkmmo.com/konu/3917308-voice-chat-system/" target="_blank" rel="noopener noreferrer">TurkMMO</a>
 
 
 If you'd like to add your forum here, DM me on discord at `amun3808`
