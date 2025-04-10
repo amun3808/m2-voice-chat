@@ -46,3 +46,11 @@ All of my customers will receive an update with more features soon.
 This version received its last update on `28.01.2025`
 Good luck.
 
+
+Forums/Topics:
+- [Metin2Dev](https://metin2.dev/topic/33630-voice-chat-system/)
+- [Metin2Forum](https://metin2.forum/post5105.html#p5105)
+- [Just4Metin](https://just4metin.ro/viewtopic.php?p=833110#p833110)
+
+
+If you'd like to add your forum here, DM me on discord at `amun3808`
