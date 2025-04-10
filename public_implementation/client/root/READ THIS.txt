@@ -1,0 +1,2 @@
+Make a button that toggles the voice chat config. Can be on the screen or wherever you want it(like game settings)
+Right now it's on the chat window, in the top right(you probably won't see it if you have official UI)

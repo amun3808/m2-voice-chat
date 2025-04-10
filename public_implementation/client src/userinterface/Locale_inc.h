@@ -1,0 +1,1 @@
+#define ENABLE_VOICE_CHAT

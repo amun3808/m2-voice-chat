@@ -1,0 +1,7 @@
+The output libs(and dlls if using dll) will be created here(you can change the output to wherever you want them).
+Move the .lib files to extern and .dll files to client
+
+If you're using the static version, you'll have to add FLAC and FLAC++ to your extern.
+You can find them compiled in extern/flac/build/out, but you should rebuild them yourself.
+
+
