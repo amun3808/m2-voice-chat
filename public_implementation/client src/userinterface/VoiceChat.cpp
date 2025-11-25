@@ -23,7 +23,7 @@ enum EVoiceRecorderStates
 	RECORDER_STATE_ALWAYS_ON,
 };
 
-VoiceChat::VoiceChat()
+VoiceChat::VoiceChat() : m_IsInitialized(false)
 {
 	Initialize();
 }
